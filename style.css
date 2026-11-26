@@ -1,0 +1,40 @@
+
+body {
+  background-color: #f2f5f2;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #27834b;
+  color: white;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#home, #record {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #27834b;
+}
+
+li {
+  background-color: #e6f4ea;
+  padding: 10px;
+  margin: 10px;
+}
+
+input {
+  padding: 10px;
+}
